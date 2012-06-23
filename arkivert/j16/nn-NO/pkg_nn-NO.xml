@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- $Id: pkg_nn-NO.xml 1695 2011-04-19 06:13:54Z rued $ -->
+<extension type="package" version="1.6">
+<name>Norwegian Nynorsk Language Pack</name>
+<packagename>nn-NO</packagename>
+<version>1.6.3</version>
+<url></url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>Joomla! 1.6 Norwegian Nynorsk Language Package</description>
+  <files>
+        <file type="language" client="site" id="nn-NO">site_nn-NO.zip</file>
+        <file type="language" client="administrator" id="nn-NO">admin_nn-NO.zip</file>
+  </files>
+</extension>

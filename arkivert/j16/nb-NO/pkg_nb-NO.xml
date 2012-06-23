@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!-- $Id: pkg_nb-NO.xml 1713 2011-06-26 20:22:26Z rued $ -->
+<extension type="package" version="1.6">
+<name>Norwegian Bokmål Language Pack</name>
+<packagename>nb-NO</packagename>
+<version>1.6.4</version>
+<url></url>
+<packager></packager>
+<packagerurl></packagerurl>
+<description>Joomla! 1.6 Norwegian Bokmål Language Package</description>
+  <files>
+        <file type="language" client="site" id="nb-NO">site_nb-NO.zip</file>
+        <file type="language" client="administrator" id="nb-NO">admin_nb-NO.zip</file>
+  </files>
+</extension>

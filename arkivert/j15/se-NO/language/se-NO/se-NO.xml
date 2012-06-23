@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id -->
+<metafile version="1.5"  client="site" >
+	<name>Northern Sami (Norway)</name>
+	<tag>se-NO</tag>
+	<version>1.5.9</version>
+	<creationDate>2008-03-15</creationDate>
+	<author>Common Cash / Davvi Girji AS</author>
+	<authorEmail>davvi@davvi.no</authorEmail>
+	<authorUrl>www.davvi.no</authorUrl>
+	<copyright>Copyright (C) 2005 - 2011 Open Source Matters. All rights reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description></description>
+	<metadata>
+		<name>Northern Sami (Norway)</name>
+		<tag>se-NO</tag>
+		<rtl>0</rtl>
+		<locale>se_NO.utf8, se_NO.UTF-8, se_NO</locale>
+		<winCodePage>iso-8859-1</winCodePage>
+		<backwardLang>sami</backwardLang>
+		<pdfFontName>freesans</pdfFontName>
+	</metadata>
+	<params />
+</metafile>

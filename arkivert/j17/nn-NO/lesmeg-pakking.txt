@@ -1,0 +1,37 @@
+<!-- $Id: lesmeg-pakking.txt 1738 2011-07-17 09:44:39Z rued $ -->
+
+*** Pakking av språkpakke ***
+
+Pakking for 1.6 og nyere skiller seg litt fra 1.5 ved at det nå må opprettes to zip-filer først, en for admin og en for brukerdelen, som navngis:
+
+site_nn-NO.zip (Naviger inn i /language/nn-NO/, merk og pakk alle filer - flytt zip ut til passende sted)
+admin_nn-NO.zip (Naviger inn i /administrator/language/nn-NO/, merk og pakk alle filer - flytt zip ut til passende sted)
+
+Disse to pakkes i en ny zip-fil, sammen med pkg_nn-NO.xml:
+
+nn-NO_joomla_lang_full_1.7.Xv1.zip
+X = Underversjon
+v1 = Pakkeversjon
+
+Alle nødvendige xml-filer ligger i mappene, husk bare på å oppdatere utgivelsesdato og evt. versjon før utsjekking og pakking gjøres!
+
+
+*** Pakking av språkpakke for TinyMCE ***
+
+Naviger inn i /media/editors/ hvor du velger å pakke alle mapper og filer i en pakke, dvs.
+tinymce, index.html og TinyMCE_nn-NO.xml
+
+Navngis som tinymce_lang_pack_nn_x.x.x.x_17v1.zip (eksempel).
+x.x.x.x = Versjonnummer for TinyMCE
+v1 = Pakkeversjon
+
+*** Pakking av komplett norsk Joomla! 1.7 ***
+
+Engelsk pakke lastes ned og pakkes ut lokalt.
+Norske språkfiler sjekkes ut fra JoomlaCode og kopieres inn i den komplette engelske pakken.
+- Kopier mappene administrator, installation og language
+  VIKTIG! lesmeg-pakking.txt, pkg_nn-NO.xml og /media/editors/TinyMCE_nn-NO.xml utelates.
+
+VIKTIG! Kopier aldri direkte fra arbeidskopi, men gjør en eksport, for å ikke få med alle skjulte filer brukt av subversion. Det vil bare gjøre pakken unødvendig stor.
+
+Alt pakkes på nytt og utgis med filnavn nn-NO_Joomla_1.7.x-Stable-Full-Pack.zip (x erstattes med riktig del-versjonsnummer, evt. Stable med RC f.eks om aktuelt).

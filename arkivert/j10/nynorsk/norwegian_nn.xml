@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="language">
+	<name>Norsk nynorsk</name>
+	<version>1.0.12</version>
+	<creationDate>des 2006</creationDate>
+	<author>Tor Otto Tollefsen</author>
+  <description>Nynorsk språkfil for Joomla 1.0.12</description>
+	<files>
+		<filename>norwegian_nn.php</filename>
+		<filename>norwegian_nn.ignore.php</filename>
+	</files>
+</mosinstall>

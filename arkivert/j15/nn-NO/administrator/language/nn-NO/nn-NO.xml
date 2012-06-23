@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: nn-NO.xml 548 2010-04-21 10:21:15Z rued $ -->
+<metafile version="1.5" client="administrator">
+	<name>Norsk nynorsk(Norway)</name>
+	<version>1.5.17</version>
+	<creationDate>28-04-2010</creationDate>
+	<author>Joomla! i Norge</author>
+	<authorEmail>oversettelser@joomlainorge.no</authorEmail>
+	<authorUrl>http://www.joomlainorge.no</authorUrl>
+	<copyright>Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved</copyright>
+	<copyright>Copyright (C) Translation 2005 - 2010 Joomla! i Norge</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>Norwegian bokmål for Joomla! 1.5 administration</description>
+	<metadata>
+		<name>Norsk nynorsk (Norway)</name>
+		<tag>nn-NO</tag>
+		<rtl>0</rtl>
+		<locale>no_NO.utf-8, nn_NO.utf-8, no_NO.UTF-8, nn_NO.UTF-8, nn_NO.utf8, no_NO.utf8, no, nn, non-NO, no_NO, nn_NO, Norwegian_Nynorsk, nor, norwegian, nynorsk, nynorsk</locale>
+		<winCodePage>iso-8859-1</winCodePage>
+		<backwardLang>norwegian_nn</backwardLang>
+		<pdfFontName>freesans</pdfFontName>
+	</metadata>
+	<params />
+</metafile>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- $Id: install.xml 572 2010-06-09 16:39:18Z rued $ -->
+<install version="1.5" client="both" type="language" method="upgrade">
+    <name>Norwegian nynorsk (Norway)</name>
+    <tag>nn-NO</tag>
+    <version>1.5.17</version>
+    <creationdate>28-04-2010</creationdate>
+    <author>Joomla! i Norge</author>
+    <authoremail>oversettelser@joomlainorge.no</authoremail>
+    <authorurl>www.joomlainorge.no</authorurl>
+    <copyright>Copyright (C) 2005 - 2010 Open Source Matters. All rights reserved</copyright>
+    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+    <description><![CDATA[Norske språkfiler (nynorsk) for Joomla! 1.5 brukerside og administrasjon.<br/>
+				 Opphav: 2005 - 2010, <a href="http://www.joomlainorge.no/" target="_blank">Foreningen Joomla! i Norge</a><br/>
+				 Kontakt: <a href="mailto:oversettelser@joomlainorge.no">oversettelser@joomlainorge.no</a><br /><br />
+                                 Bidra: Om du har stor nytte av disse språkfilene og ønsker å bidra til at foreningens kan fortsette sitt arbeide, 
+                                 med bl.a. oppdatering av språkfilene, kan du <a href="http://www.joomlainorge.no/foreningen/hvordan-bidra/" target="_blank">besøke våre FAQ-sider</a> for mer informasjon.]]></description>
+    <administration>
+      <files folder="administrator/language/nn-NO">
+        <filename>nn-NO.com_admin.ini</filename>
+        <filename>nn-NO.com_banners.ini</filename>
+        <filename>nn-NO.com_banners.menu.ini</filename>
+        <filename>nn-NO.com_cache.ini</filename>
+        <filename>nn-NO.com_categories.ini</filename>
+        <filename>nn-NO.com_checkin.ini</filename>
+        <filename>nn-NO.com_config.ini</filename>
+        <filename>nn-NO.com_contact.ini</filename>
+        <filename>nn-NO.com_contact.menu.ini</filename>
+        <filename>nn-NO.com_content.ini</filename>
+        <filename>nn-NO.com_cpanel.ini</filename>
+        <filename>nn-NO.com_frontpage.ini</filename>
+        <filename>nn-NO.com_installer.ini</filename>
+        <filename>nn-NO.com_languages.ini</filename>
+        <filename>nn-NO.com_login.ini</filename>
+        <filename>nn-NO.com_massmail.ini</filename>
+        <filename>nn-NO.com_media.ini</filename>
+        <filename>nn-NO.com_menus.ini</filename>
+        <filename>nn-NO.com_menus.menu.ini</filename>
+        <filename>nn-NO.com_messages.ini</filename>
+        <filename>nn-NO.com_modules.ini</filename>
+        <filename>nn-NO.com_newsfeeds.ini</filename>
+        <filename>nn-NO.com_newsfeeds.menu.ini</filename>
+        <filename>nn-NO.com_plugins.ini</filename>
+        <filename>nn-NO.com_poll.ini</filename>
+        <filename>nn-NO.com_poll.menu.ini</filename>
+        <filename>nn-NO.com_search.ini</filename>
+        <filename>nn-NO.com_search.menu.ini</filename>
+        <filename>nn-NO.com_sections.ini</filename>
+        <filename>nn-NO.com_templates.ini</filename>
+        <filename>nn-NO.com_trash.ini</filename>
+        <filename>nn-NO.com_user.ini</filename>
+        <filename>nn-NO.com_users.ini</filename>
+        <filename>nn-NO.com_weblinks.ini</filename>
+        <filename>nn-NO.com_weblinks.menu.ini</filename>
+        <filename>nn-NO.com_wrapper.ini</filename>
+        <filename>nn-NO.ini</filename>
+        <filename>nn-NO.mod_components.ini</filename>
+        <filename>nn-NO.mod_custom.ini</filename>
+        <filename>nn-NO.mod_feed.ini</filename>
+        <filename>nn-NO.mod_footer.ini</filename>
+        <filename>nn-NO.mod_latest.ini</filename>
+        <filename>nn-NO.mod_logged.ini</filename>
+        <filename>nn-NO.mod_login.ini</filename>
+        <filename>nn-NO.mod_menu.ini</filename>
+        <filename>nn-NO.mod_online.ini</filename>
+        <filename>nn-NO.mod_popular.ini</filename>
+        <filename>nn-NO.mod_quickicon.ini</filename>
+        <filename>nn-NO.mod_stats.ini</filename>
+        <filename>nn-NO.mod_status.ini</filename>
+        <filename>nn-NO.mod_submenu.ini</filename>
+        <filename>nn-NO.mod_title.ini</filename>
+        <filename>nn-NO.mod_toolbar.ini</filename>
+        <filename>nn-NO.mod_unread.ini</filename>
+        <filename>nn-NO.plg_authentication_example.ini</filename>
+        <filename>nn-NO.plg_authentication_gmail.ini</filename>
+        <filename>nn-NO.plg_authentication_joomla.ini</filename>
+        <filename>nn-NO.plg_authentication_ldap.ini</filename>
+        <filename>nn-NO.plg_authentication_openid.ini</filename>
+        <filename>nn-NO.plg_content_code.ini</filename>
+        <filename>nn-NO.plg_content_emailcloak.ini</filename>
+        <filename>nn-NO.plg_content_geshi.ini</filename>
+        <filename>nn-NO.plg_content_image.ini</filename>
+        <filename>nn-NO.plg_content_loadmodule.ini</filename>
+        <filename>nn-NO.plg_content_pagebreak.ini</filename>
+        <filename>nn-NO.plg_content_pagenavigation.ini</filename>
+        <filename>nn-NO.plg_content_vote.ini</filename>
+        <filename>nn-NO.plg_editors_none.ini</filename>
+        <filename>nn-NO.plg_editors_tinymce.ini</filename>
+        <filename>nn-NO.plg_editors_xstandard.ini</filename>
+        <filename>nn-NO.plg_editors-xtd_image.ini</filename>
+        <filename>nn-NO.plg_editors-xtd_pagebreak.ini</filename>
+        <filename>nn-NO.plg_editors-xtd_readmore.ini</filename>
+        <filename>nn-NO.plg_search_categories.ini</filename>
+        <filename>nn-NO.plg_search_contacts.ini</filename>
+        <filename>nn-NO.plg_search_content.ini</filename>
+        <filename>nn-NO.plg_search_newsfeeds.ini</filename>
+        <filename>nn-NO.plg_search_sections.ini</filename>
+        <filename>nn-NO.plg_search_weblinks.ini</filename>
+        <filename>nn-NO.plg_system_backlink.ini</filename>
+        <filename>nn-NO.plg_system_cache.ini</filename>
+        <filename>nn-NO.plg_system_debug.ini</filename>
+        <filename>nn-NO.plg_system_legacy.ini</filename>
+        <filename>nn-NO.plg_system_sef.ini</filename>
+        <filename>nn-NO.plg_user_joomla.ini</filename>
+        <filename>nn-NO.plg_xmlrpc_blogger.ini</filename>
+        <filename>nn-NO.plg_xmlrpc_joomla.ini</filename>
+        <filename>nn-NO.tpl_beez.ini</filename>
+		<filename>nn-NO.tpl_ja_purity.ini</filename>
+        <filename>nn-NO.tpl_khepri.ini</filename>
+        <filename>nn-NO.tpl_rhuk_milkyway.ini</filename>
+        <filename>index.html</filename>
+        <filename file="meta">nn-NO.xml</filename>
+      </files>
+  </administration>
+  <site>
+      <files folder="language/nn-NO">
+        <filename>nn-NO.com_banners.ini</filename>
+        <filename>nn-NO.com_contact.ini</filename>
+        <filename>nn-NO.com_content.ini</filename>
+        <filename>nn-NO.com_frontpage.ini</filename>
+        <filename>nn-NO.com_mailto.ini</filename>
+        <filename>nn-NO.com_media.ini</filename>
+        <filename>nn-NO.com_messages.ini</filename>
+        <filename>nn-NO.com_newsfeeds.ini</filename>
+        <filename>nn-NO.com_poll.ini</filename>
+        <filename>nn-NO.com_search.ini</filename>
+        <filename>nn-NO.com_user.ini</filename>
+        <filename>nn-NO.com_weblinks.ini</filename>
+        <filename>nn-NO.com_wrapper.ini</filename>
+        <filename>nn-NO.ignore.php</filename>
+        <filename>nn-NO.ini</filename>
+        <filename>nn-NO.mod_archive.ini</filename>
+        <filename>nn-NO.mod_banners.ini</filename>
+        <filename>nn-NO.mod_breadcrumbs.ini</filename>
+        <filename>nn-NO.mod_custom.ini</filename>
+        <filename>nn-NO.mod_feed.ini</filename>
+        <filename>nn-NO.mod_footer.ini</filename>
+        <filename>nn-NO.mod_latestnews.ini</filename>
+        <filename>nn-NO.mod_login.ini</filename>
+        <filename>nn-NO.mod_mainmenu.ini</filename>
+        <filename>nn-NO.mod_mostread.ini</filename>
+        <filename>nn-NO.mod_newsflash.ini</filename>
+        <filename>nn-NO.mod_online.ini</filename>
+        <filename>nn-NO.mod_poll.ini</filename>
+        <filename>nn-NO.mod_random_image.ini</filename>
+        <filename>nn-NO.mod_related_items.ini</filename>
+        <filename>nn-NO.mod_search.ini</filename>
+        <filename>nn-NO.mod_sections.ini</filename>
+        <filename>nn-NO.mod_stats.ini</filename>
+        <filename>nn-NO.mod_syndicate.ini</filename>
+        <filename>nn-NO.mod_whosonline.ini</filename>
+        <filename>nn-NO.mod_wrapper.ini</filename>
+        <filename>nn-NO.plg_content_pagebreak.ini</filename>
+        <filename>nn-NO.plg_content_vote.ini</filename>
+        <filename>nn-NO.plg_search_categories.ini</filename>
+        <filename>nn-NO.plg_search_contacts.ini</filename>
+        <filename>nn-NO.plg_search_content.ini</filename>
+        <filename>nn-NO.plg_search_newsfeeds.ini</filename>
+        <filename>nn-NO.plg_search_sections.ini</filename>
+        <filename>nn-NO.plg_search_weblinks.ini</filename>
+        <filename>nn-NO.plg_system_debug.ini</filename>
+        <filename>nn-NO.tpl_beez.ini</filename>
+		<filename>nn-NO.tpl_ja_purity.ini</filename>
+        <filename>nn-NO.tpl_rhuk_milkyway.ini</filename>
+        <filename>index.html</filename>
+        <filename file="meta">nn-NO.xml</filename>
+    </files>
+  </site>
+  <params />
+</install>

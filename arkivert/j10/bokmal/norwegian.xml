@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall type="language">
+	<name>Norsk bokmal</name>
+	<version>1.0.12</version>
+	<creationDate>Des 2006</creationDate>
+	<author>Kai Røen / Jens-Christian Skibakk</author>
+	<authorEmail>kai.roen@joomlacms.no / jens.christian@start.no</authorEmail>
+  <description>
+  <![CDATA[<font size="5" weight="bold">Husk å angi Norsk <a href="http://wiki.joomlainorge.no/doku.php?id=teknisk:country_locale" target="_blank">Country Locale</a>
+  i <a href="index2.php?option=com_config&hidemainmenu=1#">Global Configuration</a>, under fanen 'Locale', for å vise Norsk dato m.m. på nettsiden.
+  <br />For mer informasjon se bl.a. <a href="http://forum.joomla.org/index.php/topic,65956.0.html"  target="_blank">her... >></a></font>
+  ]]>
+  </description>
+	<files>
+		<filename>norwegian.php</filename>
+		<filename>norwegian.ignore.php</filename>
+	</files>
+</mosinstall>

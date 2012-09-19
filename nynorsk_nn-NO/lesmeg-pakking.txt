@@ -33,3 +33,4 @@ Norske språkfiler sjekkes ut fra JoomlaCode og kopieres inn i den komplette eng
 VIKTIG! Kopier aldri direkte fra arbeidskopi, men gjør en eksport, for å ikke få med alle skjulte filer brukt av subversion. Det vil bare gjøre pakken unødvendig stor.
 
 Alt pakkes på nytt og utgis med filnavn nn-NO_Joomla_2.5.x-Stable-Full-Pack.zip (x erstattes med riktig del-versjonsnummer, evt. Stable med RC f.eks om aktuelt).
+

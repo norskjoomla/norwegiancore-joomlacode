@@ -1,0 +1,36 @@
+<!-- $Id: lesmeg-pakking.txt 2148 2012-02-02 21:04:40Z rued $ -->
+
+*** ALLTID - VIKTIG ***
+
+VIKTIG! Kopier aldri direkte fra arbeidskopi, men gjør en eksport, for å ikke få med alle skjulte filer brukt av subversion. Det vil bare gjøre pakken unødvendig stor.
+
+Alle nødvendige xml-filer ligger i mappene, husk bare på å oppdatere utgivelsesdato og evt. versjon før utsjekking og pakking gjøres. Om det i noen utgivelse legges til nye språkfiler må man huske å legge disse til også i install.xml i samme mappe.
+
+
+*** PAKKING KOMPLETT SPRÅKPAKKE ***
+
+Pakking for 1.6 og nyere skiller seg litt fra 1.5 ved at det nå må opprettes tre zip-filer først, en for admin, en for brukerdelen og en for TinyMCE - som navngis som følgende:
+
+admin_nn-NO.zip (Pakk mappen admin_nn-NO direkte til zip-fil.)
+site_nn-NO.zip (Pakk mappen site_nn-NO direkte til zip-fil.)
+tinymce_nn-NO.zip (Pakk mappen tinymce_nn-NO direkte til zip-fil.)
+
+Disse tre zip-filene pakkes i en ny zip-fil, sammen med pkg_nn-NO.xml:
+
+nn-NO_joomla_lang_full_2.5.0v1.zip
+
+- 2.5.0 = Joomla-versjon
+- v1 = Pakkeversjon
+
+
+*** Pakking av komplett norsk Joomla! 2.5 ***
+
+Engelsk pakke lastes ned og pakkes ut lokalt.
+Norske språkfiler sjekkes ut fra JoomlaCode og kopieres inn i den komplette engelske pakken.
+- Kopier mappene administrator, installation og language
+  VIKTIG! lesmeg-pakking.txt, pkg_nn-NO.xml og /media/editors/TinyMCE_nn-NO.xml utelates.
+
+VIKTIG! Kopier aldri direkte fra arbeidskopi, men gjør en eksport, for å ikke få med alle skjulte filer brukt av subversion. Det vil bare gjøre pakken unødvendig stor.
+
+Alt pakkes på nytt og utgis med filnavn nn-NO_Joomla_2.5.x-Stable-Full-Pack.zip (x erstattes med riktig del-versjonsnummer, evt. Stable med RC f.eks om aktuelt).
+

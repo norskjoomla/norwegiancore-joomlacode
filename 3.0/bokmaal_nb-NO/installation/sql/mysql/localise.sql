@@ -1,4 +1,4 @@
-# $Id: localise.sql 2152 2012-02-05 09:00:34Z rued $
+# $Id$
 #
 # Localise data for Full Norwegian Joomla! Distro
 # Please ensure that the used ID in queries are matching those in joomla.sql

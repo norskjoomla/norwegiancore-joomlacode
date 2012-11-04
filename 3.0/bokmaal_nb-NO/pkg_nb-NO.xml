@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- $Id: pkg_nb-NO.xml 2243 2012-06-19 20:02:30Z rued $ -->
+<!-- $Id$ -->
 <extension type="package" version="2.5">
   <name>Norwegian Bokmål Language Pack incl. TinyMCE</name>
   <packagename>nb-NO</packagename>

@@ -1,6 +1,6 @@
 <?php
 /**
- * @version		$Id: nb-NO.localise.php 1962 2012-01-17 21:35:13Z rued $
+ * @version		$Id$
  * @copyright	Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
  * @copyright	Copyright (C) Translation 2005 - 2012 Joomla! i Norge. All rights reserved.
  * @license		GNU General Public License version 2 or later; see LICENSE.txt

@@ -1,4 +1,4 @@
-# $Id: sample_data_norwegian.sql 2141 2012-02-02 12:51:29Z rued $
+# $Id$
 #
 # IMPORTANT - THIS FILE MUST BE SAVED WITH UTF-8 ENCODING ONLY. BEWARE IF EDITING!
 #

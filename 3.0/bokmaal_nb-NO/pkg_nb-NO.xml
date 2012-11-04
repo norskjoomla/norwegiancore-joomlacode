@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- $Id$ -->
-<extension type="package" version="2.5">
+<extension type="package" version="3.0">
   <name>Norwegian Bokmål Language Pack incl. TinyMCE</name>
   <packagename>nb-NO</packagename>
-  <version>2.5.7.2</version>
-  <creationDate>2012-09-14</creationDate>
+  <version>3.0.0.1</version>
+  <creationDate>2012-11-04</creationDate>
   <author>Joomla! i Norge</author>
   <authorEmail>oversettelser@joomlainorge.no</authorEmail>
   <authorUrl>http://www.joomlainorge.no</authorUrl>
@@ -34,6 +34,6 @@
     <file type="file" client="site" id="nb-NO">tinymce_nb-NO.zip</file>
   </files>
   <updateservers>
-    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist.xml</server>
+    <server type="collection" priority="1" name="Accredited Joomla! Translations">http://update.joomla.org/language/translationlist_3.xml</server>
   </updateservers>
 </extension>

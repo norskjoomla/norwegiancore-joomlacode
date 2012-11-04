@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- $Id$ -->
-<extension version="2.5" client="administrator" type="language" method="upgrade">
+<extension version="3.0" client="administrator" type="language" method="upgrade">
     <name>Norsk bokmål (Norway)</name>
     <tag>nb-NO</tag>
-    <version>2.5.7.2</version>
-    <creationDate>2012-09-14</creationDate>
+    <version>3.0.0.1</version>
+    <creationDate>2012-11-04</creationDate>
     <author>Joomla! i Norge</author>
     <authorEmail>oversettelser@joomlainorge.no</authorEmail>
     <authorUrl>http://www.joomlainorge.no</authorUrl>
     <copyright>Copyright (C) 2005 - 2012 Open Source Matters &amp; Joomla! i Norge. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-    <description>Norwegian bokmål administrator language for Joomla! 2.5</description>
+    <description>Norwegian bokmål administrator language for Joomla! 3.0</description>
     <files>
         <filename>index.html</filename>
         <filename>nb-NO.com_admin.ini</filename>
@@ -87,6 +87,8 @@
         <filename>nb-NO.mod_popular.sys.ini</filename>
         <filename>nb-NO.mod_quickicon.ini</filename>
         <filename>nb-NO.mod_quickicon.sys.ini</filename>
+        <filename>nb-NO.mod_stats_admin.ini</filename>
+        <filename>nb-NO.mod_stats_admin.sys.ini</filename>
         <filename>nb-NO.mod_status.ini</filename>
         <filename>nb-NO.mod_status.sys.ini</filename>
         <filename>nb-NO.mod_submenu.ini</filename>
@@ -189,10 +191,10 @@
         <filename>nb-NO.plg_user_joomla.sys.ini</filename>
         <filename>nb-NO.plg_user_profile.ini</filename>
         <filename>nb-NO.plg_user_profile.sys.ini</filename>
-        <filename>nb-NO.tpl_bluestork.ini</filename>
-        <filename>nb-NO.tpl_bluestork.sys.ini</filename>
         <filename>nb-NO.tpl_hathor.ini</filename>
         <filename>nb-NO.tpl_hathor.sys.ini</filename>
+        <filename>nb-NO.tpl_isis.ini</filename>
+        <filename>nb-NO.tpl_isis.sys.ini</filename>
         <filename file="meta">nb-NO.xml</filename>
         <filename file="meta">install.xml</filename>
       </files>

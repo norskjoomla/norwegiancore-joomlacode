@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- $Id$ -->
-<extension version="2.5" client="site" type="language" method="upgrade">
+<extension version="3.0" client="site" type="language" method="upgrade">
     <name>Norsk bokmål (Norway)</name>
     <tag>nb-NO</tag>
-    <version>2.5.7.2</version>
-    <creationDate>2012-09-14</creationDate>
+    <version>3.0.0.1</version>
+    <creationDate>2012-11-04</creationDate>
     <author>Joomla! i Norge</author>
     <authorEmail>oversettelser@joomlainorge.no</authorEmail>
     <authorUrl>http://www.joomlainorge.no</authorUrl>
     <copyright>Copyright (C) 2005 - 2012 Open Source Matters &amp; Joomla! i Norge. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-    <description>Norwegian bokmål site language for Joomla! 2.5</description>
+    <description>Norwegian bokmål site language for Joomla! 3.0</description>
     <files>
         <filename>index.html</filename>
         <filename>nb-NO.com_contact.ini</filename>
@@ -82,12 +82,10 @@
         <filename>nb-NO.mod_wrapper.ini</filename>
         <filename>nb-NO.mod_wrapper.sys.ini</filename>
         <filename>nb-NO.pkg_joomla.sys.ini</filename>
-        <filename>nb-NO.tpl_atomic.ini</filename>
-        <filename>nb-NO.tpl_atomic.sys.ini</filename>
-        <filename>nb-NO.tpl_beez_20.ini</filename>
-        <filename>nb-NO.tpl_beez_20.sys.ini</filename>
-        <filename>nb-NO.tpl_beez5.ini</filename>
-        <filename>nb-NO.tpl_beez5.sys.ini</filename>
+        <filename>nb-NO.tpl_beez3.ini</filename>
+        <filename>nb-NO.tpl_beez3.sys.ini</filename>
+        <filename>nb-NO.tpl_protostar.ini</filename>
+        <filename>nb-NO.tpl_protostar.sys.ini</filename>
         <filename file="meta">nb-NO.xml</filename>
         <filename file="meta">install.xml</filename>
       </files>

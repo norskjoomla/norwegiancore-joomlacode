@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- $Id$ -->
-<metafile version="2.5" client="administrator" >
+<metafile version="3.0" client="administrator" >
 	<tag>nb-NO</tag>
 	<name>Norsk bokmål (Norwegian)</name>
 	<description>Norwegian bokmål administrator language for Joomla! 2.5</description>
-	<version>2.5.7.2</version>
-	<creationDate>2012-09-14</creationDate>
+	<version>3.0.0.1</version>
+	<creationDate>2012-11-04</creationDate>
 	<author>Joomla! i Norge</author>
 	<authorEmail>oversettelser@joomlainorge.no</authorEmail>
 	<authorUrl>http://www.joomlainorge.no</authorUrl>

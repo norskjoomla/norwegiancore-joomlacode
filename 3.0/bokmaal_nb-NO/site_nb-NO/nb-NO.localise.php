@@ -11,22 +11,28 @@ defined('_JEXEC') or die;
 /**
  * nb-NO Localise class
  *
- * @package		Joomla.Site
+ * @package		Joomla.Language
  * @since		1.6
  */
-abstract class nb_NOLocalise {
+abstract class nb_NOLocalise
+{
 	/**
 	 * Returns the potential suffixes for a specific number of items
 	 *
 	 * @param	int $count  The number of items.
+	 *
 	 * @return	array  An array of potential suffixes.
+	 *
 	 * @since	1.6
 	 */
-	public static function getPluralSuffixes($count) {
-		if ($count == 0) {
+	public static function getPluralSuffixes($count)
+	{
+		if ($count == 0)
+		{
 			$return =  array('0');
 		}
-		elseif($count == 1) {
+		elseif($count == 1)
+		{
 			$return =  array('1');
 		}
 		elseif($count > 8 && $count < 12) {
@@ -37,13 +43,16 @@ abstract class nb_NOLocalise {
 		}
 		return $return;
 	}
+
 	/**
 	 * Returns the ignored search words
 	 *
 	 * @return	array  An array of ignored search words.
+	 *
 	 * @since	1.6
 	 */
-	public static function getIgnoreSearchWords() {
+	public static function getIgnoreSearchWords()
+	{
 		$search_ignore = array();
 		$search_ignore[] = "og";
 		$search_ignore[] = "i";

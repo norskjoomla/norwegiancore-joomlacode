@@ -3,14 +3,14 @@
 <metafile version="3.0" client="administrator" >
 	<tag>nb-NO</tag>
 	<name>Norsk bokmål (Norwegian)</name>
-	<description>Norwegian bokmål administrator language for Joomla! 2.5</description>
-	<version>3.0.0.1</version>
-	<creationDate>2012-11-04</creationDate>
-	<author>Joomla! i Norge</author>
-	<authorEmail>oversettelser@joomlainorge.no</authorEmail>
-	<authorUrl>http://www.joomlainorge.no</authorUrl>
+	<description>Norwegian bokmål administrator language for Joomla! 3.0</description>
+	<version>3.0.2.1</version>
+	<creationDate>2012-11-08</creationDate>
+	<author>Norsk Joomla!</author>
+	<authorEmail>oversettelser@norskjoomla.no</authorEmail>
+	<authorUrl>http://www.norskjoomla.no</authorUrl>
 	<copyright>Copyright (C) 2005 - 2012 Open Source Matters. All rights reserved.</copyright>
-	<copyright>Copyright (C) Translation 2005 - 2012 Joomla! i Norges. All rights reserved.</copyright>
+	<copyright>Copyright (C) Translation 2005 - 2012 Norsk Joomla!. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<metadata>
 		<name>Norsk bokmål (Norwegian)</name>

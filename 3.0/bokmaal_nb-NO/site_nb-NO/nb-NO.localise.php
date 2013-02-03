@@ -2,9 +2,9 @@
 /**
  * @package    Joomla.Language
  * @version    $Id$
- * @copyright  Copyright (C) 2005 - 2012 Open Source Matters, Inc. All rights reserved.
+ * @copyright  Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved.
  * @copyright  Copyright (C) Translation 2005 - 2012 (v1.0 - 1.7) Joomla! i Norge. All rights reserved.
- * @copyright  Copyright (C) Translation 2011 - 2012 (v2.5 - 3.0) Norsk Joomla!. All rights reserved.
+ * @copyright  Copyright (C) Translation 2011 - 2013 (v2.5 - 3.0) Norsk Joomla!. All rights reserved.
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 

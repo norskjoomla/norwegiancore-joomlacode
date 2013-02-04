@@ -2,12 +2,12 @@
 <extension type="file" version="3.0" method="upgrade">
    <name>TinyMCE - Norsk bokmål</name>
    <author>Norsk Joomla!</author>
-   <authorEmail>oversettelser@joomlainorge.no</authorEmail>
-   <authorUrl>http://www.joomlainorge.no</authorUrl>
-   <copyright>(C) 2003 - 2012 Moxiecode Systems AB, TinyMCE Translators &amp; Norsk Joomla!. All rights reserved.</copyright>
+   <authorEmail>oversettelser@norskjoomla.no</authorEmail>
+   <authorUrl>http://www.norskjoomla.no</authorUrl>
+   <copyright>(C) 2003 - 2013 Moxiecode Systems AB, TinyMCE Translators &amp; Norsk Joomla!. All rights reserved.</copyright>
    <license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
    <version>3.4.4</version>
-   <creationDate>2012-11-08</creationDate>
+   <creationDate>2013-02-04</creationDate>
    <description><![CDATA[
       <div style="text-align:left;">
       <h2>Norsk bokmål for TinyMCE ble innstallert i Joomla!</h2>

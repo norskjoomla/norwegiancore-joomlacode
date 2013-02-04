@@ -3,8 +3,8 @@
 <extension type="package" version="3.0">
   <name>Norwegian Bokmål Language Pack incl. TinyMCE</name>
   <packagename>nb-NO</packagename>
-  <version>3.0.2.1</version>
-  <creationDate>2012-11-08</creationDate>
+  <version>3.0.3.1</version>
+  <creationDate>2013-02-04</creationDate>
   <author>Norsk Joomla!</author>
   <authorEmail>oversettelser@norskjoomla.no</authorEmail>
   <authorUrl>http://www.norskjoomla.no</authorUrl>

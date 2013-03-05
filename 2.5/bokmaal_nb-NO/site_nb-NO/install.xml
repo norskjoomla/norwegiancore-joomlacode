@@ -3,8 +3,8 @@
 <extension version="2.5" client="site" type="language" method="upgrade">
     <name>Norsk bokmål (Norway)</name>
     <tag>nb-NO</tag>
-    <version>2.5.9.1</version>
-    <creationDate>2013-02-04</creationDate>
+    <version>2.5.9.2</version>
+    <creationDate>2013-03-05</creationDate>
     <author>Norsk Joomla!</author>
     <authorEmail>oversettelser@norskjoomla.no</authorEmail>
     <authorUrl>http://www.norskjoomla.no</authorUrl>

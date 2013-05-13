@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- $Id$ -->
-<extension version="3.0" client="site" type="language" method="upgrade">
+<extension version="3.1" client="site" type="language" method="upgrade">
     <name>Norsk bokmål (Norway)</name>
     <tag>nb-NO</tag>
-    <version>3.0.3.1</version>
-    <creationDate>2013-02-04</creationDate>
+    <version>3.1.1.1</version>
+    <creationDate>2013-05-13</creationDate>
     <author>Norsk Joomla!</author>
     <authorEmail>oversettelser@norskjoomla.no</authorEmail>
     <authorUrl>http://www.norskjoomla.no</authorUrl>

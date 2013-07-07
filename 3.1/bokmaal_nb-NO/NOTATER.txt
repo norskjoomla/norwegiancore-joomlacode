@@ -5,3 +5,5 @@
 
 * 'Hurtiglager' burde nesten endres til mer folkelige og forståelige 'Mellomlager'.
   - 'Innholdet mellomlagres' vs. 'Innholdet hurtiglagres' ...?!
+  
+ * Sjekk navn og beskrivelser på moduler og programtillegg, er noe ukonsekvent.

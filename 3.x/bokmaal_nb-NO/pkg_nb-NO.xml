@@ -12,14 +12,13 @@
     <![CDATA[
       <div style="text-align:left;">
       <h2>Norsk bokmål for Joomla ble installert.</h2>
-      <p>Du kan aktivere 'Automatisk språkvalg' for TinyMCE gjennom følgende steg:</p>
+      <p>Du kan endre innstillinger for tekstbehandleren TinyMCE gjennom følgende steg:</p>
       <p></p>
       <ol>
       <li>Utvidelser</li>
       <li>Programtillegg</li>
       <li><a href="index.php?option=com_plugins&view=plugins&filter_search=TinyMCE">TinyMCE</a></li>
       <li>Parametre - Programtillegg</li>
-      <li>Automatisk språkvalg :: Ja</li>
       <li>Funksjonalitet :: Utvidet (Valgfritt! Om du vil aktivere alle funksjoner i TinyMCE)</li>
       </ol>
       <p></p>

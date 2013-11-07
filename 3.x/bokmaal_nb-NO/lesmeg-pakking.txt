@@ -15,9 +15,8 @@ Pakking for 1.6 og nyere skiller seg litt fra 1.5 ved at det nå må opprettes t
 
 admin_nb-NO.zip (Pakk mappen admin_nb-NO direkte til zip-fil.)
 site_nb-NO.zip (Pakk mappen site_nb-NO direkte til zip-fil.)
-tinymce_nb-NO.zip (Pakk mappen tinymce_nb-NO direkte til zip-fil.)
 
-Disse tre zip-filene pakkes i en ny zip-fil, sammen med pkg_nb-NO.xml:
+Disse to zip-filene pakkes i en ny zip-fil, sammen med pkg_nb-NO.xml:
 
 nb-NO_joomla_lang_full_2.5.0v1.zip
 
@@ -41,8 +40,6 @@ admin_nb-NO                     -> Innholdet kopieres over til 'administrator/la
 images                          -> Hele mappen kopieres direkte over, "overskriver" eksisterende.
 installation                    -> Hele mappen kopieres direkte over, "overskriver" eksisterende.
 site_nb-NO                      -> Innholdet kopieres over til '/language/nb-NO' (mappen nb-NO opprettes).
-tinymce_nb-NO                   -> Undermappen 'tinymce' kopieres over til '/media/editors/'.
-tinymce_nb-NO/TinyMCE_nb-NO.xml -> Kopieres over til mappen 'administrator/manifests/files'
 
 Alt pakkes på nytt og utgis med filnavn nb-NO_Joomla_2.5.x-Stable-Full-Distro.zip (x erstattes med riktig del-versjonsnummer, evt. Stable med RC f.eks om aktuelt).
 

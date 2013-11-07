@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <!-- $Id: nb-NO.xml 141 2013-05-13 09:10:37Z rued $ -->
-<metafile version="3.1" client="site">
+<metafile version="3.2" client="site">
 	<name>Norsk bokmål (Norway)</name>
-	<version>3.1.1.1</version>
-	<creationDate>2013-05-13</creationDate>
+	<version>3.2.0.1</version>
+	<creationDate>2013-11-07</creationDate>
 	<author>Norsk Joomla!</author>
 	<authorEmail>oversettelser@norskjoomla.no</authorEmail>
 	<authorUrl>http://www.norskjoomla.no</authorUrl>

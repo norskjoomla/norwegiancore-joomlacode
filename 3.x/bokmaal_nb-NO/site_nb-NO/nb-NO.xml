@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <metafile version="3.2" client="site">
 	<name>Norsk bokmål (Norway)</name>
-	<version>3.2.0.1</version>
-	<creationDate>2013-11-07</creationDate>
+	<version>3.2.2.1</version>
+	<creationDate>2014-02-10</creationDate>
 	<author>Norsk Joomla!</author>
 	<authorEmail>oversettelser@norskjoomla.no</authorEmail>
 	<authorUrl>http://www.norskjoomla.no</authorUrl>
-	<copyright>Copyright (C) 2005 - 2013 Open Source Matters. All rights reserved.</copyright>
-	<copyright>Copyright (C) Translation 2005 - 2013 Norsk Joomla!. All rights reserved.</copyright>
+	<copyright>Copyright (C) 2005 - 2014 Open Source Matters. All rights reserved.</copyright>
+	<copyright>Copyright (C) Translation 2005 - 2014 Norsk Joomla!. All rights reserved.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description>Norwegian bokmål site language for Joomla! 3.2</description>
 	<metadata>

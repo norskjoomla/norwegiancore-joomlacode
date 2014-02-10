@@ -2,8 +2,8 @@
 /**
  * @package    Joomla.Language
  * @version    $Id: nb-NO.localise.php 109 2013-03-05 09:12:42Z rued $
- * @copyright  Copyright (C) 2005 - 2013 Open Source Matters, Inc. All rights reserved.
- * @copyright  Copyright (C) Translation 2005 - 2013 Norsk Joomla!. All rights reserved.
+ * @copyright  Copyright (C) 2005 - 2014 Open Source Matters, Inc. All rights reserved.
+ * @copyright  Copyright (C) Translation 2005 - 2014 Norsk Joomla!. All rights reserved.
  * @license    GNU General Public License version 2 or later; see LICENSE.txt
  */
 

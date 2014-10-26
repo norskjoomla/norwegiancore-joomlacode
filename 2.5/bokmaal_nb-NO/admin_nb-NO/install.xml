@@ -3,12 +3,12 @@
 <extension version="2.5" client="administrator" type="language" method="upgrade">
     <name>Norsk bokmål (Norway)</name>
     <tag>nb-NO</tag>
-    <version>2.5.16.1</version>
-    <creationDate>2013-11-07</creationDate>
+    <version>2.5.27.1</version>
+    <creationDate>2014-10-26</creationDate>
     <author>Norsk Joomla!</author>
     <authorEmail>oversettelser@norskjoomla.no</authorEmail>
     <authorUrl>http://www.norskjoomla.no</authorUrl>
-  	<copyright>Copyright (C) 2005 - 2013 Open Source Matters &amp; Norsk Joomla!. All rights reserved.</copyright>
+  	<copyright>Copyright (C) 2005 - 2014 Open Source Matters &amp; Norsk Joomla!. All rights reserved.</copyright>
     <license>GNU General Public License version 2 or later; see LICENSE.txt</license>
     <description>Norwegian bokmål administrator language for Joomla! 2.5</description>
     <files>

@@ -11,3 +11,5 @@
  * På 'Rediger menypunkt' bør feltbeskrivelsen 'Merk' endres til 'Merknad' eller annet. Samme gjelder på moduler hvor samme felt og funksjon bruker 'Kommentar' som beskrivelse.
 
 * Sjekk hvorfor det er oversatt til 'Avanserte valg' på menypunktbehandling.
+
+* Sjekk og rydd opp i miks av 'Skriv inn', 'Angi' og 'Fyll inn'. Personlig foretrekker jeg 'Fyll inn' ettersom man kan fylle feltene på flere måter (skrive, klip og lim, kopier og lim).

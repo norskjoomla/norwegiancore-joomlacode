@@ -3,8 +3,8 @@
 <extension type="package" version="3.2">
   <name>Norwegian Bokmål Language Pack</name>
   <packagename>nb-NO</packagename>
-  <version>3.2.2.1</version>
-  <creationDate>2014-02-10</creationDate>
+  <version>3.4.0.1</version>
+  <creationDate>2014-12-23</creationDate>
   <author>Norsk Joomla!</author>
   <authorEmail>oversettelser@norskjoomla.no</authorEmail>
   <authorUrl>http://www.norskjoomla.no</authorUrl>

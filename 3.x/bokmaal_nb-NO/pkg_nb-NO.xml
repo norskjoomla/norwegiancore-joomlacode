@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <!-- $Id: pkg_nb-NO.xml 141 2013-05-13 09:10:37Z rued $ -->
-<extension type="package" version="3.2">
+<extension type="package" version="3.2" method="upgrade">
   <name>Norwegian Bokmål Language Pack</name>
   <packagename>nb-NO</packagename>
   <version>3.4.0.1</version>
